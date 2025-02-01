@@ -1,1 +1,4 @@
-Reposatiry to maintain code related to CPU reschduling
+Singleton Class
+	1. Thread safe
+	2. Multithreading
+
